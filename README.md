@@ -1,2 +1,3 @@
-# Spam-Filter
-Spam filter using Naive Bayes
+# SMS-Spam-Filter
+SMS Spam filter using Naive Bayes
+
